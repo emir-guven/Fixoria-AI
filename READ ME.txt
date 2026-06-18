@@ -1,0 +1,33 @@
+Fixoria AI
+Kurumsal teknik destek süreçlerini otomatize eden yapay zeka tabanlı asistan.
+
+Kullanılan Araçlar ve Teknolojiler
+
+Programlama Dili: Python
+
+Arayüz: CustomTkinter (Modern masaüstü arayüzü)
+
+Yapay Zeka (LLM): OpenAI GPT-4o (Sohbet ve Mantıksal Analiz)
+
+Görsel İşleme: OpenAI Vision API (Donanım arızası tespiti)
+
+Veritabanı: SQLite (Loglama, kullanıcı yönetimi ve geçmiş takibi)
+
+Raporlama: FPDF (PDF formatında sohbet dökümü oluşturma)
+
+Sistem Entegrasyonu: Pystray (System Tray / Tepsi simgesi yönetimi)
+
+Uygulama İçin Kullanılan Yapay Zekalar
+
+KİMİ 
+GEMİNİ
+CHATGPT
+
+GİRİŞ BİLGİLERİ
+Test Profili Kullanıcı Adı:12345 Şifre:1234 
+IT çalışanı için Kullanıcı Adı:99999 Şifre:admin 
+Yönetici için Kullanıcı Adı : admin Şifre:admin
+
+Dilerseniz Hem .Exe ile Uygulamayı Açabilirsiniz Hem VSC kullanabilirsiniz
+
+
