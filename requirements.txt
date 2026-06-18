@@ -1,0 +1,8 @@
+streamlit
+openai
+customtkinter
+Pillow
+numpy
+fpdf2
+matplotlib
+tensorflow
