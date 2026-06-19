@@ -4,3 +4,10 @@ showSidebarNavigation = true
 
 [browser]
 gatherUsageStats = false
+
+[theme]
+primaryColor = "#38bdf8"
+backgroundColor = "#0f1117"
+secondaryBackgroundColor = "#161b27"
+textColor = "#e8eaf0"
+font = "sans serif"
